@@ -1,0 +1,21 @@
+
+  body {
+    background-color: rgba(250,250,250,.1);
+  }
+
+  hr {
+    width:12%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 10px;
+  }
+  h1, h2, h3, h4, h5, h6 {
+      font-family: 'Saira Extra Condensed',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+      font-weight: 700;
+      text-transform: uppercase;
+      color: #343a40;
+  }
+  h3,h2 {
+    color:#121211
+  }
