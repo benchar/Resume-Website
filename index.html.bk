@@ -79,7 +79,7 @@
         </div>
     </section>
 
-    <hr>
+    <hr class="m-0">
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
         <div class="w-100">
@@ -305,7 +305,7 @@ c72 -11 176 -58 228 -104 62 -54 112 -128 146 -217 19 -48 18 -232 0 -290 -32
 
     </section>
 
-    <hr>
+    <hr class="m-0">
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
         <div class="w-100">
@@ -347,7 +347,7 @@ c72 -11 176 -58 228 -104 62 -54 112 -128 146 -217 19 -48 18 -232 0 -290 -32
         </div>
     </section>
 
-    <hr>
+    <hr class="m-0">
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="trivia">
         <div class="w-100">
