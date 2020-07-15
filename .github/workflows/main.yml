@@ -1,4 +1,4 @@
-name: CI
+name: Push content to S3 bucket
 on: [push]
 jobs:
   build:
@@ -14,4 +14,4 @@ jobs:
     - name: Build static site
       run: yarn install && npm run-script build
     - name: Deploy static site to S3 bucket
-      run: aws s3 sync ./dist/ s3://<your-website-bucket> --delete
+      run: aws s3 sync ./dist/ s3://runningallovertheworldlookingat --delete
