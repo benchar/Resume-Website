@@ -1,2 +1,2 @@
-# Resume-Website
-Website that displays my resume
+# Architecture
+![Serverless Architecture](img/severlessarch.png)
