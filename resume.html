@@ -52,14 +52,21 @@
 <h3>RELEVANT PROJECTS</h3>
 
       <h4><a href="https://github.com/benchar/Resume-Website" target = "_blank"> Resume Website</a></h4>
-      <p><ul>
+      <p>
+        <ul>
         <li>
           This website is created with HTML, CSS, Javascript, and various AWS services.
           </li>
+        </ul>
+          
+        <ul>
           <li>
             It showcases my resume and has a visitor count. Website files are stored on S3 and hosted on CloudFront. CloudFront uses the domain name I have registered in Route 53.
             </li>
-            <li>
+          </ul>
+
+            <ul>
+              <li>
               The website uses an SSL certificate provisioned by AWS. The visitor count is stored on DynamoDB and is updated by a Lambda function written in Python. This Lambda function is invoked by an API gateway that is attached to my website.
               </li>
         </ul>
