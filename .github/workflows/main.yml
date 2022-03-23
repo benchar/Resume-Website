@@ -1,4 +1,4 @@
-name: Upload Website
+name: Upload files from github to S3
 
 on:
   push:
